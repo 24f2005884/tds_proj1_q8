@@ -1,0 +1,6 @@
+{
+  "prompt": "A surreal yet physically realistic landscape where multiple small streams flow naturally downhill across a rugged terrain, each obeying gravity individually. As they merge into a larger river, the combined water body visibly flows uphill toward a distant elevated horizon, defying the overall slope of the land. The terrain subtly indicates conflicting gradients at different scales. Cinematic natural lighting, highly detailed textures, realistic water behavior, wide composition, no text, no symbols, no diagrams, no abstract overlays.",
+  "model": "DALL·E 3",
+  "paradox": "Simpson's Paradox",
+  "visual_logic": "Small streams flow downhill locally, but merge into a river that flows uphill globally, creating a contradiction between local and aggregate behavior."
+}
